@@ -19,4 +19,4 @@ This is a React-based Job Listing component for a tech hiring platform.
 3. Start the app: `npm start`
 
 ### Deployed Link
-[Link to deployed app](<https://github.com/tarunnnm/Job-Listings>)
+[Link to deployed app](<https://dailyjobsearch.netlify.app/>)
