@@ -1,0 +1,17 @@
+.job-list {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    width: 100%;
+    max-width: 1200px;
+    padding: 0 20px;
+    margin-top: 20px;
+  }
+  
+  .no-jobs {
+    color: #888;
+    font-size: 1.2em;
+    padding: 20px;
+    text-align: center;
+  }
+  
