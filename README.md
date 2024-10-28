@@ -14,7 +14,7 @@ This is a React-based Job Listing component for a tech hiring platform.
 - JavaScript (React)
 
 ### Getting Started
-1. Clone the repo: `git clone <repo-url>`
+1. Clone the repo: `git clone https://github.com/tarunnnm/Job-Listings`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
